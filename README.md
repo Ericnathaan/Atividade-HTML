@@ -13,4 +13,4 @@ A segunda atividade envolve a criação de um site de Fast Food. Utilize element
 
 ## Atividade 3: Card
 
-Na terceira atividade, você será desafiado a desenvolver uma loja virtual simples. Crie páginas para exibir produtos, detalhes e informações de contato. Use formulários HTML para permitir que os usuários enviem pedidos de compra. Aplique CSS para melhorar a aparência da loja e garantir que ela seja amigável aos dispositivos móveis.
+Na terceira atividade, você será desafiado a desenvolver uma loja virtual simples. Crie páginas para exibir produto. Aplique CSS para melhorar a aparência da loja e garantir que ela seja amigável aos dispositivos móveis.

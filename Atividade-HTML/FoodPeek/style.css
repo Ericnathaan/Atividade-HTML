@@ -1,30 +1,82 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url(../../Fontes/Poppins-Black.ttf);
+    list-style-type: none;
+}
+
+
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
-body {
-   
+body{
+    height: 100vh;
 }
 
-
-header{
-   display: flex;
-   justify-content: space-between;
-  
-   
-} 
-
-ul {
+nav{
+    padding: 20px;
     display: flex;
-    list-style: none;
-    margin-right: 20px;
-    
+    justify-content: space-between;
+    color: rgb(78, 78, 78);
+    box-shadow: 0px 0px 9px 2px #00000049;
+}
+
+ul{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(78, 78, 78);
+}
+
+#logo{
+    padding-left: 40px;
+    font-size: 1.5em;
+}
+
+#Logo > strong{
+    color: rgb(225 113 19);
 }
 
 a{
     text-decoration: none;
-    color: black;
-    padding: 10px;
+    color: inherit;
 }
 
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 90%;
+}
+
+main > article{
+    display: flex;
+    width: 600px;
+    flex-direction: column;
+    
+}
+
+#Welcome{
+    color:rgb(225, 101, 19) ;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+
+#botao{
+    color: white;
+    background-color: rgb(225, 101, 19) ;
+    border-radius:  8px;
+    width: fit-content;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    font-size: 1em;
+}
+
+#Different{
+    font-weight: bolder;
+    font-size: 50px;
+}

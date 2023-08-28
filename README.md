@@ -9,7 +9,7 @@ Na primeira atividade, você terá a oportunidade de criar um site de portfólio
 
 ## Atividade 2: Food Peek
 
-A segunda atividade envolve a criação de um site de Fast Food. Utilize elementos HTML para estruturar as postagens, incorporar imagens e adicionar formulários de comentários. Aplique CSS para dar vida ao design do site e torne-o atraente para os leitores.
+A segunda atividade envolve a criação de um site de Fast Food. Utilize elementos HTML para estruturar as postagens e incorporar imagens . Aplique CSS para dar vida ao design do site e torne-o atraente para os leitores.
 
 ## Atividade 3: Card
 
